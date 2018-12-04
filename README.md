@@ -5,7 +5,7 @@ Requirements for running the code:
 
 Create an empty folder `trained_models` in the main directory. This is where trained models will be saved.
 
-Download the MultiNLI (version 0.9) dataset, and put the jsonl files into the folder `nli/data/raw/multinli0.9/`.
+Download the MultiNLI (version 0.9) dataset, and put the jsonl files into the folder `nli/data/raw/multinli/`.
 
 **TRAINING ON SOURCE AND 1 TARGET**
 
