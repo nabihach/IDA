@@ -1,0 +1,7 @@
+current_model/
+trained_models/
+__pycache__/
+*.pyc
+data/w2v_vectors.bin
+.idea
+nli/data/
